@@ -1,0 +1,16 @@
+El usuario ingreso a la ruta:/admin?user=ada
+El usuario ingreso a la ruta:/admin?user=Ada
+El usuario ingreso a la ruta:/
+El usuario ingreso a la ruta:/admin?user=Ada
+El usuario ingreso a la ruta:/
+El usuario ingreso a la ruta:/admin?user=Ada
+El usuario ingreso a la ruta:/
+El usuario ingreso a la ruta:/favicon.ico
+El usuario ingreso a la ruta:/admin?user=estebanbraianrey%40gmail.com
+El usuario ingreso a la ruta:/admin?user=Ada
+El usuario ingreso a la ruta:/
+El usuario ingreso a la ruta:/admin?user=robertoPati%C3%B1o
+El usuario ingreso a la ruta:/service
+El usuario ingreso a la ruta:/services
+El usuario ingreso a la ruta:/admin?user=ada
+El usuario ingreso a la ruta:/admin?user=Ada
